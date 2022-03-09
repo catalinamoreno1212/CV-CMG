@@ -1,0 +1,207 @@
+body{
+  color: #40514E;
+  margin: 0;
+  background: #DFF6FF;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #14274E;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #14274E;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #5F939A;
+}
+
+.a {
+  color:064420;
+}
+
+.intro {
+width: 90%;
+}
+.top-container{
+  background-color: #C8F2EF;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.middle-container{
+margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #719FB0;
+  padding: 35px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 350px;
+}
+
+.profile{
+  background-color: #719FB0;
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.formation{
+  background-color: #CCF2F4;
+  width: 50%;
+  text-align: justify;
+  margin: 50px auto 50px auto;
+}
+
+.experiencia {
+  background-color: #719FB0;
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: justify;
+  line-height: 2;
+
+}
+
+.qualificacao{
+  background-color: #CCF2F4;
+  width: 50%;
+  text-align: justify;
+  margin: 50px auto 50px auto;
+}
+
+.linkedin {
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+}
+
+.linkedin:hover{
+  color: #EAF6F6;
+}
+
+.rodape{
+  color: #051367;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #456268;
+    border-width: 5px;
+    width: 10%;
+}
+
+
+
+.livro-img{
+  width: 170px;
+  height:140px;
+  float: right;
+  margin-right: 30px;
+}
+
+.trabalho-img {
+  width: 170px;
+  height:140px;
+  float: right;
+  margin-right: 30px;
+}
+
+.qualificacao-img{
+  width: 170px;
+  height:140px;
+  float: right;
+  margin-right: 30px;
+}
+
+.contato-img{
+}
+
+.perfil-img{
+  width: 300px;
+  height:280px;
+  float: right;
+  margin-left:30px;
+}
+
+.btn {
+  background: #ebf1f5;
+  background-image: -webkit-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -moz-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -ms-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -o-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: linear-gradient(to bottom, #ebf1f5, #cde0eb);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #0d138f;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #cce2f0;
+  background-image: -webkit-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -moz-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -ms-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -o-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: linear-gradient(to bottom, #cce2f0, #6e9bb8);
+  text-decoration: none;
+}
+
+.btn-pais {
+  background: #ebf1f5;
+  background-image: -webkit-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -moz-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -ms-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: -o-linear-gradient(top, #ebf1f5, #cde0eb);
+  background-image: linear-gradient(to bottom, #ebf1f5, #cde0eb);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #0d138f;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn-pais:hover {
+  background: #cce2f0;
+  background-image: -webkit-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -moz-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -ms-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: -o-linear-gradient(top, #cce2f0, #6e9bb8);
+  background-image: linear-gradient(to bottom, #cce2f0, #6e9bb8);
+  text-decoration: none;
+}
